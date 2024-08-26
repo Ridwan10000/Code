@@ -4,7 +4,12 @@ body{
   justify-content: center;
   
 }
-
+.face{
+  display:flex;
+  justify-content: center;
+  border: solid 1px #000;
+  border-radius:50%;
+}
 
 .eye {
   margin: 100px;
